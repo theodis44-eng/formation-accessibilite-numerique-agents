@@ -27,3 +27,10 @@ Une collectivité qui ne verse pas de contribution peut aussi demander l'aide : 
 - Le classement des 100 plus grandes villes sur la transparence de leur accessibilité numérique : [Palmarès 2026](https://claren.fr/barometre/palmares/)
 
 Publié par Claren (claren.fr), audit d'accessibilité numérique RGAA pour les collectivités.
+
+## Voir aussi sur claren.fr
+
+- [Formations à l'accessibilité numérique pour les agents](https://claren.fr/formation/) : trois formations par rôle, aides FIPHFP
+- [Claren Documents, gratuit](https://claren.fr/documents/) : documents et PDF accessibles, test gratuit d'un PDF
+- [Baromètre 2026 de l'accessibilité des sites de communes](https://claren.fr/barometre/)
+- [Palmarès 2026 : le Top 100 des plus grandes villes](https://claren.fr/barometre/palmares/)
